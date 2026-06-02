@@ -116,7 +116,7 @@ Infrastructure   Docker Compose · Nginx · Redis · Celery · JWT · bcrypt · 
 |------|------|
 | **Prof. Dr. Utku Köse** *(me)* · [utkukose.com](https://utkukose.com) · [ORCID](https://orcid.org/0000-0002-9652-6415) | Principal Investigator / Developer — SDU / University of North Dakota / VelTech / Universidad Panamericana |
 | Prof. Dr. Gözde Özkan Tükel | Researcher / Developer — Süleyman Demirel University |
-| Dr. İlhan Uysal | Researcher / Developer — Burdur Mehmet Akif Ersoy University |
+| Assist. Prof. Dr. İlhan Uysal | Researcher / Developer — Burdur Mehmet Akif Ersoy University |
 | Lect. Osman Ceylan | Researcher / Developer — Isparta Applied Sciences University |
 | Lect. Emine Betül Sürücü | Researcher / Developer — Süleyman Demirel University |
 
